@@ -43,3 +43,17 @@ Console.WriteLine("Welcome Mood Analyser Problem");
 //Outcomes
 //   5 Passed
 //------------------------------------------------------------------//
+//UC-3
+//Inform user if entered Invalid Mood
+//- In case of NULL or Empty Mood throw Custom Exception MoodAnalysisException
+//- Use Enum to differentiate the Mood Analysis Errors
+
+//Results
+//Tests
+//  Tests in group: 7
+
+//  Total Duration: 11 ms
+
+//Outcomes
+//   7 Passed
+//------------------------------------------------------------------//
