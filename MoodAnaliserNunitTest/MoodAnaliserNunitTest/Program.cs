@@ -29,3 +29,17 @@ Console.WriteLine("Welcome Mood Analyser Problem");
 
 //Outcomes
 //   4 Passed
+//------------------------------------------------------------------//
+//UC-2
+//Handle Exception if User Provides Invalid Mood
+//- Like NULL
+
+//RESULT
+//Tests
+//  Tests in group: 5
+
+//  Total Duration: 22 ms
+
+//Outcomes
+//   5 Passed
+//------------------------------------------------------------------//
